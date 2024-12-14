@@ -20,5 +20,5 @@ All pip requirements are stored in the included requirements.txt file and should
 
 1. Download the dataset "creditcard.csv" and store it in a folder called "data" on the same level as the .ipynb files
 
-2. Run all cells in the .ipynb files in order, from top to bottom. The .ipynb files are ordered from 1 to 3 and should be run in that order
+2. Run all cells in the .ipynb files in order, from top to bottom. The .ipynb files are ordered from 1 to 2 and should be run in that order
 
